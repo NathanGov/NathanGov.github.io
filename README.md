@@ -255,9 +255,3 @@ Try the following commands and then re-install `networkmanager`
 
 `source /etc/bash.bashrc`
 - Apply changes without needing to `reboot`
-Confirm that 'System clock synchronized:' is set to yes
-
-![[Pasted image 20241103182629.png]]
-
-## Partition HDD
-`fdisk -l

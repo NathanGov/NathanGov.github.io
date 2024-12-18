@@ -1,3 +1,6 @@
+---
+layout: deafult
+---
 # Arch Linux Installation
 
 # Pre-Installation

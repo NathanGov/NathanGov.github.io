@@ -44,7 +44,7 @@ echo \
 `cd Pihole`
 - Create Pi-hole directory to house docker-compose.yml file
 
-Navigate to [https://github.com/pi-hole/docker-pi-hole/#running-pi-hole-docker](https://github.com/pi-hole/docker-pi-hole/#running-pi-hole-docker)
+Navigate to [https://github.com/pi-hole/docker-pi-hole/#running-pi-hole-docker](https://github.com/pi-hole/docker-pi-hole/#running-pi-hole-docker) to copy their docker-compose.yml file
 - Paste the given docker-compose.yml code block into a new folder in the Pi-hole directory called `docker-compose.yml` (can use a different filename but must specify with `-f`)
 
 ## Enable Port 53 Listening For Pi-hole

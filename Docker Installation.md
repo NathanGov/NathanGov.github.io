@@ -1,4 +1,4 @@
-# Installing Docker
+# Docker Installation
 Directions from : [(https://docs.docker.com/engine/install/ubuntu/)]
 
 # Setup Docker apt Repo

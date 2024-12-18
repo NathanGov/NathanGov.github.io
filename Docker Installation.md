@@ -39,6 +39,7 @@ echo \
 - Successful installation will print a confirmation message
 
 # Install Pi-hole (Network blocking tool)
+## Create docker-compose.yml file
 `cd ~`
 `mkdir Pihole`
 `cd Pihole`

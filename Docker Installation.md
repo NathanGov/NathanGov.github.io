@@ -71,4 +71,5 @@ On your local computer, type the following in a web browser: `http://YOUR_IP/adm
 - `YOUR_IP` is the IP you found from `ip a`
 
 You should see the resulting webpage
+
 ![Pi-hole Interface](https://nathangov.github.io/PiHole.png)

@@ -61,4 +61,14 @@ Navigate to [https://github.com/pi-hole/docker-pi-hole/#running-pi-hole-docker](
 - Start the Pi-hole service, without service logs appearing in terminal
 - Docker compose command must be run from the directory that houses the docker-compose.yml file
 
-\* At this point, Pihole is running, and can be accessed from the internet at the IP address of the VM. Congrats!
+## Service Start
+At this point, Pi-hole is running, and can be accessed from the internet at the IP address of the VM
+
+`ip a`
+- Show current IP address of VM or whatever device Docker is installed on, for instance 192.168.144.143
+
+On your local computer, type the following in a web browser: `http://YOUR_IP/admin`
+- `YOUR_IP` is the IP you found from `ip a`
+
+You should see the resulting webpage
+![Pi-hole Interface](link here)

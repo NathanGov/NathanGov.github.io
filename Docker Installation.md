@@ -29,6 +29,7 @@ echo \
 
 `sudo apt-get update`
 - Refresh the apt sources to include Docker repositories
+
 # Install and Verify Docker Installation
 `sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin`
 - Install latest Docker version

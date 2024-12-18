@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Arch Linux Installation
 
 # Pre-Installation

@@ -1,4 +1,4 @@
-# Installing Arch Linux
+# Arch Linux Installation
 
 # Pre-Installation
 Download ISO file from archlinux.org

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Docker Installation
 Directions from : [(https://docs.docker.com/engine/install/ubuntu/)]
 
